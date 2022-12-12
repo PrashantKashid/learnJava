@@ -39,7 +39,6 @@ class Z extends B {
 
 	public void d() {
 		System.out.println("i am D");
-
 	}
 }
 
